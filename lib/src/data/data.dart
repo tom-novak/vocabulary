@@ -1,0 +1,1 @@
+export 'repository/vocabulary_repository.dart';
