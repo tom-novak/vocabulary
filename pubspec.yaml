@@ -29,6 +29,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_common_widgets:
+    git:
+      url: https://github.com/tom-novak/flutter-common-widgets.git
+      ref: v1.0.0-dev.1
 
 
   # The following adds the Cupertino Icons font to your application.
